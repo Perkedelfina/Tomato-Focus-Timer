@@ -13,6 +13,7 @@
 		B588E7172819026500C74147 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B588E7152819026500C74147 /* Main.storyboard */; };
 		B588E7192819026600C74147 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B588E7182819026600C74147 /* Assets.xcassets */; };
 		B588E71C2819026600C74147 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B588E71A2819026600C74147 /* LaunchScreen.storyboard */; };
+		B5A38E40281AE51000F35A06 /* Ring.wav in Resources */ = {isa = PBXBuildFile; fileRef = B5A38E3F281AE51000F35A06 /* Ring.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		B588E7182819026600C74147 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B588E71B2819026600C74147 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B588E71D2819026600C74147 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B5A38E3F281AE51000F35A06 /* Ring.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Ring.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				B588E7112819026500C74147 /* SceneDelegate.swift */,
 				B588E7132819026500C74147 /* ViewController.swift */,
 				B588E7152819026500C74147 /* Main.storyboard */,
+				B5A38E3F281AE51000F35A06 /* Ring.wav */,
 				B588E7182819026600C74147 /* Assets.xcassets */,
 				B588E71A2819026600C74147 /* LaunchScreen.storyboard */,
 				B588E71D2819026600C74147 /* Info.plist */,
@@ -102,7 +105,7 @@
 					};
 				};
 			};
-			buildConfigurationList = B588E7072819026500C74147 /* Build configuration list for PBXProject "Tomato Focus Timer" */;
+			buildConfigurationList = B588E7072819026500C74147 /* Build configuration list for PBXProject "Tomato Focus Timer Copy" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B5A38E40281AE51000F35A06 /* Ring.wav in Resources */,
 				B588E71C2819026600C74147 /* LaunchScreen.storyboard in Resources */,
 				B588E7192819026600C74147 /* Assets.xcassets in Resources */,
 				B588E7172819026500C74147 /* Main.storyboard in Resources */,
@@ -341,7 +345,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		B588E7072819026500C74147 /* Build configuration list for PBXProject "Tomato Focus Timer" */ = {
+		B588E7072819026500C74147 /* Build configuration list for PBXProject "Tomato Focus Timer Copy" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B588E71E2819026600C74147 /* Debug */,
